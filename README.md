@@ -1,4 +1,4 @@
-# gas-module
+# gas-module-arduino
 
 ## Python Gas Module with Arduino
 
