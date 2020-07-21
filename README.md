@@ -4,8 +4,9 @@
 
 ### Installation
 
-Clone this repository and open the .ino file using Arduino IDE
-Ensure dependencies are met
+1. Clone this repository and open the .ino file using Arduino IDE
+2. Ensure dependencies are met
+3. Compile and Run
 
 ### Dependencies
 
