@@ -2,6 +2,11 @@
 
 ## Python Gas Module with Arduino
 
+### Installation
+
+Clone this repository and open the .ino file using Arduino IDE
+Ensure dependencies are met
+
 ### Dependencies
 
 #### LiquidCrystal_I2C.h
