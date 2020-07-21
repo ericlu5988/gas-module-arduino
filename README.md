@@ -4,9 +4,9 @@
 
 ### Installation
 
-1. Clone this repository and open the .ino file using Arduino IDE
-2. Ensure dependencies are met
-3. Compile and Run
+1. Clone this repository and open the GasDetect_Arduino.ino file using the Arduino IDE
+2. Before compiling the code, ensure that all dependencies are met (below)
+3. Compile and upload the code to your Arduino board
 
 ### Dependencies
 
