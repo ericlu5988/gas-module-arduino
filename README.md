@@ -1,6 +1,6 @@
 # gas-module-arduino
 
-## Python Gas Module with Arduino
+## Gas Detection Module with Arduino
 
 ### Installation
 
