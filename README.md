@@ -1,6 +1,6 @@
 # gas-module-arduino
 
-## Gas Detection Module with Arduino
+## Arduino Gas Detection Module 
 
 ### Installation
 
